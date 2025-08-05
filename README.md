@@ -110,36 +110,6 @@ class Conversation:
     emotional_journey: Dict                   # Emotion progression
 ```
 
-## 🛠 Installation
-
-### Standard Installation
-```bash
-git clone https://github.com/yourusername/aria-agent.git
-cd aria-agent
-pip install -r requirements.txt
-```
-
-### Advanced NLP Features
-```bash
-pip install textblob transformers openai anthropic
-python -m textblob.download_corpora
-```
-
-### Production Deployment
-```bash
-# Docker with Redis and PostgreSQL
-docker-compose up -d
-
-# Kubernetes deployment
-kubectl apply -f k8s/aria-deployment.yaml
-```
-
-### API Server Setup
-```bash
-# Start Aria API server
-python -m aria_agent.api_server --port 8080 --workers 4
-```
-
 ## 📈 Usage Examples
 
 ### Basic Empathetic Interaction
