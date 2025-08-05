@@ -510,7 +510,4 @@ For licensing inquiries: licensing@monteycodes.com
 ✨ **Consistent Excellence**: Maintains empathy and quality across all interactions  
 ✨ **Continuous Learning**: Improves personalization based on successful interaction patterns  
 
-### Real Customer Impact
 
-> *"Aria transformed our customer experience. Our satisfaction scores increased 23% and our customers now actively recommend us to others. She doesn't just solve problems—she builds relationships."*
-> 
